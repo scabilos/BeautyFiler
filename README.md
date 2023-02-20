@@ -12,3 +12,8 @@ This mass-rename tool will make your filenames readable by renaming them accordi
 5. When there is more than one space between words, delete one space until only one remains (can process max 3 spaces between words): ugly   file  name.txt --> Ugly File Name.txt
 
 6. Capitalize every word: ugly file name.txt --> Ugly File Name.txt
+
+
+Version 1.9 (headless mode) is for automation.
+It runs only in the folder you put it in.
+Its purpose is to be run periodically in the same folder (for example: Downloads folder).
