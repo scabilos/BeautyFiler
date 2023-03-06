@@ -17,3 +17,4 @@ This mass-rename tool will make your filenames readable by renaming them accordi
 Version 1.9 (headless mode) is for automation.
 It runs only in the folder you put it in.
 Its purpose is to be run periodically in the same folder (for example: Downloads folder).
+You can use Task Scheduler to make it run automatically.
